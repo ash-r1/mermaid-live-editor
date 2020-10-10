@@ -148,10 +148,10 @@
         height: 100%;
     }
     #col1 {
-        width: 35%;
+        width: 50%;
     }
     #col2 {
-        width: 65%;
+        width: 50%;
         padding-left: 32px;
     }
     #link-root {
